@@ -11,6 +11,7 @@ The model was evaluated using accuracy score, confusion matrix, and classificati
 A user-friendly Streamlit app was built to recieve predictions on bus crowdness
 
 Tech Stack
+
 Programming Language:
 
 Python: Used for building the machine learning model and developing the web application.
